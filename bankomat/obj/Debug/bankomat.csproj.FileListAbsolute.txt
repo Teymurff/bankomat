@@ -1,0 +1,7 @@
+C:\Projects\IN CLASS\bankomat\bankomat\bin\Debug\bankomat.exe.config
+C:\Projects\IN CLASS\bankomat\bankomat\bin\Debug\bankomat.exe
+C:\Projects\IN CLASS\bankomat\bankomat\bin\Debug\bankomat.pdb
+C:\Projects\IN CLASS\bankomat\bankomat\obj\Debug\bankomat.csprojAssemblyReference.cache
+C:\Projects\IN CLASS\bankomat\bankomat\obj\Debug\bankomat.csproj.CoreCompileInputs.cache
+C:\Projects\IN CLASS\bankomat\bankomat\obj\Debug\bankomat.exe
+C:\Projects\IN CLASS\bankomat\bankomat\obj\Debug\bankomat.pdb
